@@ -55,7 +55,7 @@ Columns:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Tofunmi-Gloria/HNG13-STAGE-2-TASK
 cd country-api
 
 	2.	Install dependencies:
